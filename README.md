@@ -53,5 +53,5 @@
 
 ### SALES INSIGHTS DASHBOARD URL
  
-    <p>https://public.tableau.com/app/profile/manvith.k/viz/SalesInsightAnalysis_16449301800810/Dashboard1#1</p>
+    <p>https://public.tableau.com/app/profile/manvith.k/viz/SalesInsightAnalysis_16449301800810/Dashboard1</p>
 
