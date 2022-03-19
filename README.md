@@ -9,7 +9,7 @@
 4. <b>Success Criteria</b> <i> (Against which criteria will the result be measured?) </i>
    <p> a) Dashboard(s) uncovering sales order insights with latest data available </p>
    <p> b) Sales Team able to take better decisions & prove 10% cost savings of total spend </p>   
-   <p> c) Sales insights stop gathering manually in order to save 20% of business time and reinvest it value added 
+   <p> c) Sales Analyst stop data gathering manually in order to save 20% of business time and reinvest it in value added 
 	  activity </p>   
       
 ### DATA ANALYSIS USING SQL
